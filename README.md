@@ -8,10 +8,12 @@
 
 ## Ferramentas e Tecnologias
 
+<div style="flex: 1;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" height="60px" width="60px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="60px" width="60px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="60px" width="60px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60px" width="60px" />
+</div>
 
 ## Estou aprendendo
 

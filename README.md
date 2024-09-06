@@ -36,5 +36,3 @@ Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser137&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiser137&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-
-![Snake animation](https://github.com/Kaiser137/Kaiser137/blob/output/github-contribution-grid-snake.svg)

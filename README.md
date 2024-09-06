@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<div style="font-size: 12px; margin-bottom: 10px;">
+<div style="margin-bottom: 10px;">
 ## Olá, seja bem-vindo(a) ao meu GitHub!
 ## Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
 ## Tenho atualmente 18 anos!

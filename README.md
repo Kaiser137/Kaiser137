@@ -1,12 +1,12 @@
-<div style="text-align: center; background-color: white;">
+<div style="text-align: center;">
 <div style="font-size: 12px; margin-bottom: 10px;">
-# Olá, seja bem-vindo(a) ao meu GitHub!
-# Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
-# Tenho atualmente 18 anos!
-# Sou Formado em Técnico em informática pelo Instituto Federal do Sul de Minas!
-# Estou cursando Sistemas de Informação pela Univas!
-# E também sou estagiário do Instituto Federal do Sul de Minas!
-# Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!
+## Olá, seja bem-vindo(a) ao meu GitHub!
+## Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
+## Tenho atualmente 18 anos!
+## Sou Formado em Técnico em informática pelo Instituto Federal do Sul de Minas!
+## Estou cursando Sistemas de Informação pela Univas!
+## E também sou estagiário do Instituto Federal do Sul de Minas!
+## Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!
 </div>
 
  Ferramentas e Tecnologias

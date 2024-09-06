@@ -15,7 +15,7 @@ Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas
 
 ## Ferramentas e Tecnologias
 
-<div style="flex: 1 1 1 30px;">
+<div style="display: flex; gap: 30px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="120px" width="120px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="120px" width="120px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" height="120px" width="120px" />

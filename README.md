@@ -4,14 +4,14 @@
 ## Sou Formado em Técnico em informática pelo Instituto Federal do Sul de Minas!
 ## Estou cursando Sistemas de Informação pela Univas!
 ## E também sou estagiário do Instituto Federal do Sul de Minas!
-## Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!
+## Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!<br>
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" height="60px" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="60px" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" height="60px" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60px" width="60px" />
 
 ## Estou aprendendo
 

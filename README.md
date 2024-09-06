@@ -1,3 +1,10 @@
+<style>
+  img {
+    width: 100px;
+    height: 100px;
+  }
+</style>
+
 ## Olá, seja bem-vindo(a) ao meu GitHub!
 ## Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
 ## Tenho atualmente 18 anos!

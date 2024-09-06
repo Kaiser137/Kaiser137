@@ -30,7 +30,7 @@ Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="120px" width="120px"/>
 </div>
 
-<div>
+<div style="display: flex; margin-top: 10px;">
 <a href="https://github.com/Kaiser137">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser137&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaiser137&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

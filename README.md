@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá, seja bem-vindo(a) ao meu GitHub!
+## Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
+## Tenho atualmente 18 anos!
+## Sou Formado em Técnico em informática pelo Instituto Federal do Sul de Minas!
+## Estou cursando Sistemas de Informação pela Univas!
+## E também sou estagiário do Instituto Federal do Sul de Minas!
+## Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!
 
-<!--
-**Kaiser137/Kaiser137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ferramentas e Tecnologias
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<div>
+<a href="https://github.com/Kaiser137">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/Kaiser137/Kaiser137/blob/output/github-contribution-grid-snake.svg)

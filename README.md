@@ -23,10 +23,12 @@ Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas
 
 ## Estou aprendendo
 
+<div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="120px" width="120px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="120px" width="120px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="120px" width="120px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="120px" width="120px"/>
+</div>
 
 <div>
 <a href="https://github.com/Kaiser137">

@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+
 ## Olá, seja bem-vindo(a) ao meu GitHub!
 ## Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
 ## Tenho atualmente 18 anos!
@@ -28,4 +28,4 @@
 
 ![Snake animation](https://github.com/Kaiser137/Kaiser137/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+

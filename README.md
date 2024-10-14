@@ -22,7 +22,7 @@ I'm currently 18 years old, a graduate in Computer Technician from the Instituto
 
 I'm studying Information Systems at Univas and also interning at the Instituto Federal do Sul de Minas!
 
-Below, check out more about me and my projects, as well as my favorite programming languages!
+Below, check out more about me and my projects, as well as my favorite programming languages! * Sorry for my bad English :)
 
 ## Ferramentas e Tecnologias
 

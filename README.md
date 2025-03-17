@@ -2,7 +2,7 @@ Olá, seja bem-vindo(a) ao meu GitHub!
 
 Me chamo Cezar Vitor, sou natural de Pouso Alegre, Minas Gerais!
 
-Tenho atualmente 18 anos!
+Tenho atualmente 19 anos!
 
 Sou Formado em Técnico em informática pelo Instituto Federal do Sul de Minas!
 
@@ -18,7 +18,7 @@ Hello, welcome to my GitHub!
 
 My name is Cezar Vitor, and I'm from Pouso Alegre, Minas Gerais! 
 
-I'm currently 18 years old, a graduate in Computer Technician from the Instituto Federal do Sul de Minas! 
+I'm currently 19 years old, a graduate in Computer Technician from the Instituto Federal do Sul de Minas! 
 
 I'm studying Information Systems at Univas and also interning at the Instituto Federal do Sul de Minas!
 

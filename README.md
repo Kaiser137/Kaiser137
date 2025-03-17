@@ -26,26 +26,6 @@ Below, check out more about me and my projects, as well as my favorite programmi
 
 ** Sorry for my bad English :)
 
-## Ferramentas e Tecnologias
-
-<div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="120px" width="120px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="120px" width="120px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain-wordmark.svg" height="120px" width="120px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="120px" width="120px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="120px" width="120px"/>
-</div>
-
-## Estou aprendendo
-
-<div style="display: flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="120px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="120px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="120px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="120px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="120px" width="120px"/>
-</div>
-
 ## Estatísticas
 <a href="https://github.com/Kaiser137">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiser137&layout=compact&langs_count=7&theme=dracula"/>

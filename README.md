@@ -1,6 +1,6 @@
 # Hi, I'm Cezar Vitor 👋
 
-**Automation & Web Developer** · Pouso Alegre, Brazil (UTC-3)
+**Automation & Web Developer** · Pouso Alegre, Brazil
 Open to remote junior opportunities
 
 I'm an Information Systems student at Univás and a computer technician graduate from IFSULDEMINAS. I build workflow automations and web platforms that save time for real teams.
